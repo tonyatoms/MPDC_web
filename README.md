@@ -1,6 +1,6 @@
-# NYC Planning Labs' Website
+# Stealing NYC Planning Labs' Website
 
-This repo houses the NYC Planning Labs Jekyll blog/website.
+This repo houses a fork of the NYC Planning Labs Jekyll blog/website, for experimentation, and possible adoption as the McKinely Park Development Council Website.
 
 ### Jekyll Foundation
 
